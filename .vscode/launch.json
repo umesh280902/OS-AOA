@@ -1,0 +1,45 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Strassen",
+      "request": "launch",
+      "mainClass": "Strassen",
+      "projectName": "Analysis of algorithm_79529540"
+    },
+    {
+      "type": "java",
+      "name": "KMP",
+      "request": "launch",
+      "mainClass": "KMP",
+      "projectName": "Analysis of algorithm_79529540"
+    },
+    {
+      "type": "java",
+      "name": "floydwarshall",
+      "request": "launch",
+      "mainClass": "floydwarshall",
+      "projectName": "Analysis of algorithm_79529540"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/Codes/c_c++/Analysis of algorithm/Analysis of algorithms Exam",
+      "program": "d:/Codes/c_c++/Analysis of algorithm/Analysis of algorithms Exam/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
