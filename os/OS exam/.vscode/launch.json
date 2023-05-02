@@ -1,0 +1,157 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "mft",
+      "request": "launch",
+      "mainClass": "mft",
+      "projectName": "OS exam_2a2c7df"
+    },
+    {
+      "type": "java",
+      "name": "paging",
+      "request": "launch",
+      "mainClass": "paging",
+      "projectName": "OS exam_2a2c7df"
+    },
+    {
+      "type": "java",
+      "name": "RoundRobin",
+      "request": "launch",
+      "mainClass": "RoundRobin",
+      "projectName": "OS exam_2a2c7df"
+    },
+    {
+      "type": "java",
+      "name": "NonPreemptivePriority",
+      "request": "launch",
+      "mainClass": "NonPreemptivePriority",
+      "projectName": "OS exam_2a2c7df"
+    },
+    {
+      "type": "java",
+      "name": "bankers",
+      "request": "launch",
+      "mainClass": "bankers",
+      "projectName": "OS exam_2a2c7df"
+    },
+    {
+      "type": "java",
+      "name": "Optimal",
+      "request": "launch",
+      "mainClass": "Optimal",
+      "projectName": "OS exam_2a2c7df"
+    },
+    {
+      "type": "java",
+      "name": "LRU",
+      "request": "launch",
+      "mainClass": "LRU",
+      "projectName": "OS exam_2a2c7df"
+    },
+    {
+      "type": "java",
+      "name": "FIFO",
+      "request": "launch",
+      "mainClass": "FIFO",
+      "projectName": "OS exam_2a2c7df"
+    },
+    {
+      "type": "java",
+      "name": "clook",
+      "request": "launch",
+      "mainClass": "clook",
+      "projectName": "OS exam_2a2c7df"
+    },
+    {
+      "type": "java",
+      "name": "look",
+      "request": "launch",
+      "mainClass": "look",
+      "projectName": "OS exam_2a2c7df"
+    },
+    {
+      "type": "java",
+      "name": "cscan",
+      "request": "launch",
+      "mainClass": "cscan",
+      "projectName": "OS exam_2a2c7df"
+    },
+    {
+      "type": "java",
+      "name": "Scan",
+      "request": "launch",
+      "mainClass": "Scan",
+      "projectName": "OS exam_2a2c7df"
+    },
+    {
+      "type": "java",
+      "name": "SSTF",
+      "request": "launch",
+      "mainClass": "SSTF",
+      "projectName": "OS exam_2a2c7df"
+    },
+    {
+      "type": "java",
+      "name": "FCFSdisk",
+      "request": "launch",
+      "mainClass": "FCFSdisk",
+      "projectName": "OS exam_2a2c7df"
+    },
+    {
+      "type": "java",
+      "name": "WorstFit",
+      "request": "launch",
+      "mainClass": "WorstFit",
+      "projectName": "OS exam_2a2c7df"
+    },
+    {
+      "type": "java",
+      "name": "BestFit",
+      "request": "launch",
+      "mainClass": "BestFit",
+      "projectName": "OS exam_2a2c7df"
+    },
+    {
+      "type": "java",
+      "name": "firstfit",
+      "request": "launch",
+      "mainClass": "firstfit",
+      "projectName": "OS exam_2a2c7df"
+    },
+    {
+      "type": "java",
+      "name": "SJF",
+      "request": "launch",
+      "mainClass": "SJF",
+      "projectName": "OS exam_2a2c7df"
+    },
+    {
+      "type": "java",
+      "name": "fcfs",
+      "request": "launch",
+      "mainClass": "fcfs",
+      "projectName": "OS exam_2a2c7df"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/Codes/c_c++/Analysis of algorithm/os/OS exam",
+      "program": "d:/Codes/c_c++/Analysis of algorithm/os/OS exam/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
